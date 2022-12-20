@@ -51,7 +51,7 @@ If you're still on Mongoose 4.x, please read the [Mongoose 4.x to 5.x migration 
 
 <h3 id="version-requirements"><a href="#version-requirements">Version Requirements</a></h3>
 
-Mongoose now requires Node.js >= 12.0.0. Mongoose still supports MongoDB server versions back to 3.0.0.
+Mongoose now requires Node.js >= 12.0.0. Mongoose still supports MongoDB server versions back to 3.0.0. (After 6.0.13 the minimum MongoDB version is 3.6)
 
 <h3 id="mongodb-driver-40"><a href="#mongodb-driver-40">MongoDB Driver 4.0</a></h3>
 
